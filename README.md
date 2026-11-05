@@ -1,12 +1,13 @@
 # Cartoon Study Guides
 
-A nursing study-guide project centered on colorful, hand-drawn message-board posters. This repository currently contains the project standards and an editable SVG panel reference. Source lecture files and previously generated posters were not present in the repository when it was reviewed on 2026-11-05.
+A nursing study-guide project centered on colorful, hand-drawn message-board posters. This repository now contains the project standards and editable SVG panel references. Source lecture files and previously generated posters were not present when the repository was reviewed on 2026-11-05.
 
 ## Start here
 
 - [AGENTS.md](AGENTS.md): required visual, source-use, medication, image-first, and quality-check standards.
 - [Panel gallery review](references/PANEL_GALLERY_REVIEW.md): assessment of the supplied Chapter 28 examples and recommended optional panel types.
-- [Expanded editable panel gallery](references/panel_gallery.svg): reusable panel-pattern reference for complications, safety, medication monitoring, comparisons, clinical cues, and quick review.
+- [Expanded editable panel gallery](references/panel_gallery.svg): six reusable patterns for complications, safety, medication monitoring, comparisons, clinical cues, and quick review.
+- [Filled Chapter 28 panel samples](references/chapter28_panel_samples.svg): example content for complication/impact, sleepwalking safety, and medication monitoring panels, based on the supplied posters.
 
 ## Visual direction
 
