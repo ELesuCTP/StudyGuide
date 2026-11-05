@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+<title id="title">Chapter 28 Filled Panel Examples</title><desc id="desc">Three source-example panels for sleep-disorder consequences, sleepwalking safety, and sleep medication monitoring, styled as a hand-drawn cartoon nursing message board.</desc>
+<defs><filter id="shadow" x="-10%" y="-10%" width="130%" height="130%"><feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#3c2447" flood-opacity=".18"/></filter><style>
+.ink{stroke:#21152c;stroke-width:5;stroke-linejoin:round;stroke-linecap:round}.thin{stroke:#21152c;stroke-width:3;stroke-linejoin:round;stroke-linecap:round}
+.title{font:900 58px 'Trebuchet MS',sans-serif;fill:#3a1246;stroke:#fff;stroke-width:7;paint-order:stroke}
+.head{font:900 30px 'Trebuchet MS',sans-serif;fill:#20152a}.body{font:700 23px 'Trebuchet MS',sans-serif;fill:#211b2a}.small{font:700 18px 'Trebuchet MS',sans-serif;fill:#211b2a}.label{font:900 16px 'Trebuchet MS',sans-serif;letter-spacing:1px;fill:#49304c}.check{font:900 27px 'Trebuchet MS',sans-serif;fill:#ed267e}
+</style></defs>
+<rect width="1200" height="1500" fill="#fffdf9"/>
+<path d="M58 45Q80 27 109 44Q139 22 171 44Q198 25 230 44H967Q1000 27 1035 45Q1066 25 1100 45Q1135 26 1160 57V138Q1135 160 1100 140Q1067 161 1035 141Q1001 161 968 141H230Q198 161 171 141Q140 160 109 141Q78 161 58 139Z" fill="#fff09a" class="ink"/>
+<text x="600" y="98" text-anchor="middle" class="title">PANEL EXAMPLES</text><text x="600" y="132" text-anchor="middle" class="head">Sleep-Wake Disorders · filled sample cards</text>
+<!-- complication / impact -->
+<g filter="url(#shadow)"><path d="M62 192Q80 174 108 185Q135 168 162 187H1089Q1115 177 1138 198Q1155 216 1147 245V591Q1127 611 1098 598H108Q80 612 61 589Q46 572 55 542V226Q50 207 62 192Z" fill="#fff0f5" class="ink"/><path d="M57 225Q51 195 81 185Q94 180 109 186Q135 166 162 186H1089Q1117 175 1140 197Q1155 214 1148 240H55Z" fill="#f6a2d5" class="thin"/></g>
+<path d="M92 206L103 183L116 206L139 209L122 225L126 246L103 236L82 246L86 225L69 209Z" fill="#ffe154" class="thin"/><text x="610" y="219" text-anchor="middle" class="head">Complication / Functional Impact</text>
+<text x="94" y="278" class="label">SLEEP PROBLEMS IN OLDER ADULTS</text><text x="95" y="328" class="check">✓</text><text x="136" y="328" class="body">Poor sleep quality is linked with cognitive impairment,</text><text x="136" y="362" class="body">depression, anxiety, and increased fall risk.</text>
+<text x="95" y="416" class="check">✓</text><text x="136" y="416" class="body">Insomnia may interfere with social and occupational</text><text x="136" y="450" class="body">functioning; daytime sleepiness can create danger.</text>
+<text x="95" y="504" class="check">✓</text><text x="136" y="504" class="body">Nursing focus: assess sleep quality and daily function;</text><text x="136" y="538" class="body">teach about the effects of poor-quality sleep.</text>
+<!-- senior doodle -->
+<circle cx="1034" cy="362" r="66" fill="#ffd2aa" class="thin"/><path d="M976 354Q978 288 1038 293Q1091 299 1098 351Q1074 330 1054 329Q1025 356 981 354Z" fill="#a35c30" class="thin"/><circle cx="1012" cy="364" r="6" fill="#21152c"/><circle cx="1056" cy="364" r="6" fill="#21152c"/><path d="M1023 389Q1035 397 1047 388" fill="none" class="thin"/><path d="M1000 438Q1034 414 1068 438L1090 515H980Z" fill="#bda5ff" class="thin"/><path d="M995 478Q965 461 963 437M1071 478Q1097 460 1100 437" fill="none" class="thin"/>
+<text x="1034" y="563" text-anchor="middle" class="small">Assess the whole day, too.</text>
+<!-- safety -->
+<g filter="url(#shadow)"><path d="M70 666Q88 647 116 657Q143 640 170 659H563Q590 649 610 670Q625 689 616 718V1093Q599 1112 570 1100H116Q87 1113 69 1091Q55 1074 64 1044V700Q59 681 70 666Z" fill="#edfbff" class="ink"/><path d="M65 699Q58 670 87 660Q101 655 117 660Q143 638 171 658H563Q592 647 613 669Q626 685 618 713H63Z" fill="#8de2ef" class="thin"/></g>
+<path d="M99 679Q99 662 116 662Q133 662 133 679V696H99Z" fill="#fff" class="thin"/><text x="345" y="693" text-anchor="middle" class="head">Safety Panel</text>
+<text x="95" y="756" class="label">SLEEPWALKING · SOMNAMBULISM</text><text x="92" y="810" class="check">✓</text><text x="133" y="810" class="body">Secure the environment and</text><text x="133" y="844" class="body">remove hazards.</text>
+<text x="92" y="900" class="check">✓</text><text x="133" y="900" class="body">Protect the person from injury,</text><text x="133" y="934" class="body">including falls and other harm.</text>
+<text x="92" y="990" class="check">✓</text><text x="133" y="990" class="body">Plan with family/caregivers;</text><text x="133" y="1024" class="body">use safety features as needed.</text>
+<path d="M455 817Q455 786 488 786H539Q572 786 572 817V1034H455Z" fill="#fff" class="thin"/><path d="M478 1034V858Q478 828 508 828H541" fill="none" class="thin"/><circle cx="543" cy="939" r="5" fill="#21152c"/><path d="M462 782Q462 766 480 766H536Q555 766 555 782" fill="#ffe05a" class="thin"/><text x="513" y="1070" text-anchor="middle" class="small">Secure exits / hazards</text>
+<!-- medication caution -->
+<g filter="url(#shadow)"><path d="M650 668Q670 648 699 659Q727 640 754 660H1097Q1124 649 1143 670Q1158 688 1149 718V1092Q1131 1112 1103 1100H703Q674 1114 652 1091Q638 1074 647 1044V700Q641 682 650 668Z" fill="#f3efff" class="ink"/><path d="M646 699Q640 671 669 660Q686 653 703 660Q728 639 755 659H1098Q1125 648 1145 669Q1158 686 1151 714H644Z" fill="#c9afff" class="thin"/></g>
+<rect x="676" y="669" width="46" height="22" rx="11" transform="rotate(-18 699 680)" fill="#ff78ac" class="thin"/><path d="M697 667L708 689" class="thin" fill="none"/><text x="900" y="693" text-anchor="middle" class="head">Medication Watch</text>
+<text x="679" y="756" class="label">SLEEP-RELATED MEDICATIONS</text><text x="677" y="810" class="check">✓</text><text x="718" y="810" class="body">Assess for confusion, memory problems,</text><text x="718" y="844" class="body">excessive sedation, and falls.</text>
+<text x="677" y="900" class="check">✓</text><text x="718" y="900" class="body">Monitor for drug interactions and</text><text x="718" y="934" class="body">increased CNS-depressant effects.</text>
+<text x="677" y="990" class="check">✓</text><text x="718" y="990" class="body">Use the lowest effective dose as directed;</text><text x="718" y="1024" class="body">teach about safe use and side effects.</text>
+<path d="M1058 1046L1090 990L1122 1046Z" fill="#ffe05a" class="thin"/><text x="1090" y="1039" text-anchor="middle" class="head">!</text>
+<!-- style note -->
+<path d="M96 1194Q117 1174 146 1186Q172 1168 201 1187H1001Q1031 1173 1058 1190Q1085 1171 1112 1190Q1140 1177 1157 1200V1383Q1139 1401 1110 1388Q1083 1406 1055 1387Q1027 1404 999 1387H199Q171 1405 145 1388Q115 1405 96 1384Z" fill="#fff6b8" class="ink"/>
+<text x="626" y="1244" text-anchor="middle" class="head">Why add these panels?</text>
+<text x="143" y="1294" class="body">They make consequences, injury prevention, and medication monitoring</text><text x="143" y="1330" class="body">easy to find without forcing every topic into the same page grid.</text>
+<text x="600" y="1449" text-anchor="middle" class="small">Sample facts transcribed from the supplied Chapter 28 examples. Verify against the assigned source.</text></svg>
