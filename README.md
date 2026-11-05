@@ -1,23 +1,19 @@
 # Cartoon Study Guides
 
-Nursing study posters for Hinkle Chapter 19, *Management of Patients with Chest and Lower Respiratory Tract Disorders*.
+A nursing study-guide project centered on colorful, hand-drawn message-board posters. This repository currently contains the project standards and an editable SVG panel reference. Source lecture files and previously generated posters were not present in the repository when it was reviewed on 2026-11-05.
 
-## Project source and references
+## Start here
 
-- `Hinkle - Chpt 19  (1)(3).pptx` is the original 59-slide source.
-- `AGENTS.md` contains the binding visual, content, medication, quality-control, and image-first workflow standards.
-- `source_media/` contains the ten illustrations embedded in the original PowerPoint, extracted for source visual review.
-- `references/` contains the user's approved Atelectasis and Pneumonia visual references and the acceptable Acute Tracheobronchitis and Tuberculosis style references. These are references; source accuracy is checked separately.
-- `posters/` contains one verified, full-page portrait poster per disorder/topic. Review each poster before moving to the next topic.
-- `StudyGuide_Chapter_19.pdf` and `StudyGuide_Chapter_19.pptx` will be assembled only after the individual pages are verified. The poster images will not be redesigned during assembly.
+- [AGENTS.md](AGENTS.md): required visual, source-use, medication, image-first, and quality-check standards.
+- [Panel gallery review](references/PANEL_GALLERY_REVIEW.md): assessment of the supplied Chapter 28 examples and recommended optional panel types.
+- [Expanded editable panel gallery](references/panel_gallery.svg): reusable panel-pattern reference for complications, safety, medication monitoring, comparisons, clinical cues, and quick review.
 
-## Method
+## Visual direction
 
-Individual full-page image generation is preferred because standard slide-generation/layout methods repeatedly caused drift into rigid grids, tables, and generic templates. Creating each poster image first provides stronger visual consistency with the approved hand-drawn study-poster style. Approved poster images may then be assembled into a printable PDF and/or PowerPoint.
+Use the supplied posters as visual examples: playful nursing doodles, large outlined lettering, soft pastel fills, yellow highlights, and organic message-board panels. Keep panel sizes and page composition varied. Avoid strict tables, uniform grids, screenshot collages, and dense tiny text.
 
-## Approval history
+The Chapter 28 images are visual references only. Verify every clinical statement against the source material for the chapter being studied. Add complication and safety panels only when supported by that source.
 
-- User approved the Atelectasis and Pneumonia posters as the primary visual style references.
-- Tuberculosis and Acute Tracheobronchitis are acceptable visual directions, subject to verification against the source.
-- Rigid table/worksheet and accidental collage outputs are excluded from the approved set.
-- The aspiration poster is the first remaining-topic draft under review.
+## Workflow
+
+Create and review one full-page portrait poster image at a time. Compare it with the visual standard, check every fact against the supplied source, and preserve approved page images unchanged when assembling a printable PDF or PowerPoint. Add source decks, extracted media, approved references, and finished posters as they become available; do not claim they are present until they are committed.
